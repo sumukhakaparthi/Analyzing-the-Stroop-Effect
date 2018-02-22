@@ -1,4 +1,5 @@
-#Problem set defined by Udacity
+# Analyzing the Stroop Effect 
+## Problem set defined by Udacity
 
 Statistics: The Science of Decisions Project Instructions
 Background Information
